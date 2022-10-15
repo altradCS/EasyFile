@@ -9,4 +9,11 @@ The purpose of this program is to help you manage files more easily. Features of
 <li>Download Images</li>
 <li>Download Source Code of Any Website</li>
 
+<h3>----- Usage ----- </h3>
+<ul>
+  <li> ---> chmod +x setup.sh </li>
+  <li> ---> ./setup.sh </li>
+  <li> ---> python3 main.py </li> 
+</ul>
+
 
